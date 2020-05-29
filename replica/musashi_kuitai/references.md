@@ -1,3 +1,3 @@
 # 参考文献
 1.8bit風オープニングタイトルの作り方【AfterEffects チュートリアル】
-[![](https://img.youtube.com/vi/Up6jx4eZnls&t=934s/0.jpg)](https://www.youtube.com/watch?v=Up6jx4eZnls&t=934s)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
