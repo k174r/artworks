@@ -1,4 +1,4 @@
-![原画像]()
+![原画像](https://github.com/k174r/artworks/blob/master/musashi_kuitai/musashi_kuitai.gif)
 <br><br>
 # 参考文献
 ## 8bit風オープニングタイトルの作り方【AfterEffects チュートリアル】  
