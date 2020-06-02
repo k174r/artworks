@@ -1,7 +1,7 @@
 ![原画像](https://github.com/k174r/artworks/blob/master/hcli/HCLI.gif)
 <br><br>
 # 使用ソフト
-Adobe  After effects
+## Adobe  After effects
 <br><br>
 # 参考文献
 ## 8bit風オープニングタイトルの作り方【AfterEffects チュートリアル】  
