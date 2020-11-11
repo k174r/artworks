@@ -1,5 +1,8 @@
+# TDU CNL
 ![原画像](https://github.com/k174r/artworks/blob/master/tdu_cnl/tdu_cnl.gif)
 <br><br>
+# 使用ソフト
+Adobe AfterEffects
 # 参考文献
 シュパシュパッ！と線が出て出現するテキスト・ロゴアニメーションの作り方【After Effects チュートリアル】
 <https://www.youtube.com/watch?v=oK5PNGdldpQ>  
